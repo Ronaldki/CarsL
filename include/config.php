@@ -1,6 +1,7 @@
 <?php
 
-$conn = mysqli_connect("localhost","root","","db_carsale");
+// $conn = mysqli_connect("localhost","root","","db_carsale");
+include 'db_config.php';
 
 
 $this_file = str_replace('\\', '/', __File__) ;
