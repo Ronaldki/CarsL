@@ -1,5 +1,7 @@
 <?php
-require_once(LIB_PATH.DS.'database.php');
+// require_once(LIB_PATH.DS.'database.php');
+require_once(LIB_PATH.DS.'https://clavicar.com/campusweekly/api/csp5/database.php');
+
 class Customer {
 	protected static  $tblname = "tblcustomer";
 
